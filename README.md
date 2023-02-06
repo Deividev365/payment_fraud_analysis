@@ -1,3 +1,12 @@
-"# payment_fraud_analysis" 
+<h1 align="center">Payment Fraud Analysis</h1>
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+<div align="center">
+  
+  ![version](https://img.shields.io/badge/version-1.0.0-blue)
+  
+</div>
+
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/61792159/216996831-9deef91e-cd5b-44ac-b9ef-7e92131f3e5c.png" alt="intuitiveCare-logo">
+</div>
+
